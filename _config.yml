@@ -1,7 +1,7 @@
 name: musthavesolutions.com
 favicon: null
 layout_spectrum: 0.5227357009425759
-typography_spectrum: 0.04605618491768837
+typography_spectrum: 0.25
 title: Must Have Solutions
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#252525'
+    - '#545454'
+    - '#ffffff'
+    - '#a7a7a7'
+    - '#01a8ec'
   brandStrength: 0.6361466681119055
   lightness: 0.17925983550958335
   saturation: 0.5211730189621449
